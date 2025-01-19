@@ -1,0 +1,29 @@
+[
+   {
+      "question": "LU Decomposition method is applicable for ",
+      "qid": 1,
+      "option_a": "any coefficient matrix",
+      "option_b": "only symetric system",
+      "option_c": "system of linear equation, if determinant is non-zero.",
+      "option_d": "diagonally dominant system",
+      "correct_option": "c"
+   },
+   {
+      "question": "Select which option is more correct in case of LU Decomposition method",
+      "qid": 2,
+      "option_a": "[A] = [L][U]",
+      "option_b": "[A] = [U][L]",
+      "option_c": "[L][A] = [U]",
+      "option_d": "[U][A] = [L]",
+      "correct_option": "a"
+   },
+   {
+      "question": "Which is not a part of LU Decomposition method",
+      "qid": 3,
+      "option_a": "Upper triangular matrix",
+      "option_b": "Transposing the matrix",
+      "option_c": "Lower triangular matrix",
+      "option_d": "Back substitution method",
+      "correct_option": "b"
+   }
+]

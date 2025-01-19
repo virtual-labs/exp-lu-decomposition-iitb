@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$\\begin{bmatrix} -111.2768 & -0.0541 & 17.3241 \\\\ -14.398 & 9.6024 & 7.0853 \\\\ 22.3052 & 7.1356 & -13.079 \\end{bmatrix}$$ Find lower triangular matrix.",
+      "qid": 1,
+      "option_a": "$$\\begin{bmatrix} 1 & 0 & 0 \\\\ 0.1314 & 1 & 0 \\\\ -0.2102 & 0.5291 & 1 \\end{bmatrix}$$",
+      "option_b": "$$\\begin{bmatrix} 1 & 0 & 0 \\\\ 0.0912 & 1 & 0 \\\\ -0.2031 & 0.8624 & 1 \\end{bmatrix}$$",
+      "option_c": "$$\\begin{bmatrix} 1 & 0 & 0 \\\\ 0.1417 & 1 & 0 \\\\ -0.1982 & 0.6117 & 1 \\end{bmatrix}$$",
+      "option_d": "$$\\begin{bmatrix} 1 & 0 & 0 \\\\ 0.1294 & 1 & 0 \\\\ -0.2004 & 0.7414 & 1 \\end{bmatrix}$$",
+      "correct_option": "d"
+   },
+   {
+      "question": "$$\\begin{bmatrix} -111.2768 & -0.0541 & 17.3241 \\\\ -14.398 & 9.6024 & 7.0853 \\\\ 22.3052 & 7.1356 & -13.079 \\end{bmatrix}$$ Find upper triangular matrix.",
+      "qid": 2,
+      "option_a": "$$\\begin{bmatrix} -117.6278 & -0.1742 & 11.3423 \\\\ 0 & 7.9947 & 7.3751 \\\\ 0 & 0 & -18.2494 \\end{bmatrix}$$",
+      "option_b": "$$\\begin{bmatrix} -111.2768 & -0.0541 & 17.3241 \\\\ 0 & 9.6094 & 4.8437 \\\\ 0 & 0 & -13.1977 \\end{bmatrix}$$",
+      "option_c": "$$\\begin{bmatrix} -107.8217 & -1.4372 & 14.2413 \\\\ 0 & 4.9347 & 8.7351 \\\\ 0 & 0 & -9.1924 \\end{bmatrix}$$",
+      "option_d": "$$\\begin{bmatrix} -121.1283 & -1.7041 & 21.1541 \\\\ 0 & 13.6473 & 8.8751 \\\\ 0 & 0 & -7.1752 \\end{bmatrix}$$",
+      "correct_option": "b"
+   }
+]
